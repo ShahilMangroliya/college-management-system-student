@@ -1,7 +1,6 @@
 # college-management-system-student
 <table>
  <tr>
-  <td><img src = "https://github.com/ShahilMangroliya/college-management-system-student/blob/main/images/photo_2021-05-11_13-20-15.jpg?raw=true" width="150" height="250"></td>
   <td><img src = "https://github.com/ShahilMangroliya/college-management-system-student/blob/main/images/photo_2021-05-11_13-20-17.jpg?raw=true" width="150" height="250"></td>
   <td><img src = "https://github.com/ShahilMangroliya/college-management-system-student/blob/main/images/photo_2021-05-11_13-20-19.jpg?raw=true" width="150" height="250"></td>
   <td><img src = "https://github.com/ShahilMangroliya/college-management-system-student/blob/main/images/photo_2021-05-11_13-20-21.jpg?raw=true" width="150" height="250"></td>
